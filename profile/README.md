@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Builder6 Logo" width="120" height="120">
+  <img src="https://www.builder6.com/logo.svg" alt="Builder6 Logo" width="120" height="120">
   <h1>Builder6</h1>
   <p><strong>Build in Cloud. Run Locally. The AI-Native Low-Code Platform.</strong></p>
 
