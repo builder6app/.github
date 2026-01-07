@@ -1,12 +1,38 @@
-# Builder6 AI Builder
+<div align="center">
+  <img src="https://via.placeholder.com/150" alt="Builder6 Logo" width="120" height="120">
+  <h1>Builder6</h1>
+  <p><strong>Build in Cloud. Run Locally. The AI-Native Low-Code Platform.</strong></p>
 
-欢迎来到 Builder6 的 GitHub 主页！🎉
+  <a href="https://builder6.com">Website</a> •
+  <a href="https://github.com/builder6app/builder6.com">Core Repository</a> •
+  <a href="https://twitter.com/yourhandle">Twitter</a>
+</div>
 
-Builder6 是一家致力于提供先进云端应用设计工具的公司。我们集成了多个顶尖服务，帮助用户轻松创建和管理应用程序。我们的核心组件包括：
+<br/>
 
-- **Builder6 Chatbots**：通过智能聊天机器人实现实时自动化和用户交互，提升工作效率。
-- **Builder6 Workflows**：允许用户创建自动化任务，通过触发器和操作无缝连接不同的应用和服务。
-- **Builder6 Tables**：强大的数据管理工具，帮助用户组织和操作表格数据，实现高效的数据处理和存储。
-- **Builder6 Interfaces**：提供直观的用户界面，简化创建和管理自动化工作流的过程。
+## 🚀 Our Mission
 
-我们欢迎所有对云端应用设计和自动化工作流感兴趣的开发者和设计师参与到我们的项目中来。如果您有任何建议或发现了问题，请提交 Issue 或 Pull Request。
+**Builder6** is redefining how enterprise software is built. We believe in the power of **Generative AI** to accelerate development, without compromising data privacy or vendor independence.
+
+We provide a cloud-based "AI Factory" where you can design applications using natural language prompts. Once built, you receive the full source code/metadata package to run **on your own infrastructure**.
+
+## 💡 Core Philosophy
+
+* **🤖 AI-First Engineering:** Don't just drag and drop. Talk to the AI to generate data models, UIs, and business logic.
+* **☁️ Cloud IDE:** Zero setup. Start developing in your browser instantly.
+* **🔒 Data Sovereignty:** Your production data belongs to you. Export your app and deploy it on-premise, in a private cloud, or on the edge.
+
+## 🛠️ Key Projects
+
+* **[builder6.com](https://github.com/builder6app/builder6.com)**: The core repository for our AI-native cloud editor. Built with Next.js, Amis, and NestJS.
+
+## 🤝 Join the Community
+
+We are an open-source initiative building the future of software development.
+* Try the platform: [https://builder6.com](https://builder6.com)
+* Contribute to the core: [Pull Requests Welcome](https://github.com/builder6app/builder6.com/pulls)
+
+---
+<p align="center">
+  © 2025 Builder6. Licensed under MIT.
+</p>
