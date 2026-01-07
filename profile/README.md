@@ -10,7 +10,7 @@
   </p>
   
   <p>
-    We are <strong>Build6</strong>, the open-source organization behind the next generation of software development.<br/>
+    We are <strong>Builder6</strong>, the open-source organization behind the next generation of software development.<br/>
     Our platform leverages <strong>Generative AI</strong> to turn natural language into enterprise-grade applications.
   </p>
 
@@ -20,7 +20,7 @@
 
 ## 🧬 Our DNA: AI + Low-Code
 
-We believe the future of coding is conversational. **Build6** provides the ecosystem to make this happen:
+We believe the future of coding is conversational. **Builder6** provides the ecosystem to make this happen:
 
 1.  **AI-First Design**: Don't start with a blank canvas. Start with a prompt.
 2.  **Cloud-Native DX**: No environment setup. Design data models and UIs instantly in the cloud.
@@ -30,8 +30,8 @@ We believe the future of coding is conversational. **Build6** provides the ecosy
 
 | Project | Description | Role |
 | :--- | :--- | :--- |
-| **[builder6.com](https://github.com/build6-ai/builder6.com)** | The AI-Native Cloud IDE. Build apps via prompts. | 🧠 **Editor** |
-| **[builder6.app](https://github.com/build6-ai/builder6.app)** | The high-performance runtime engine for your apps. | ⚙️ **Runtime** |
+| **[builder6.com](https://github.com/builder6-ai/builder6.com)** | The AI-Native Cloud IDE. Build apps via prompts. | 🧠 **Editor** |
+| **[builder6.app](https://github.com/builder6-ai/builder6.app)** | The high-performance runtime engine for your apps. | ⚙️ **Runtime** |
 
 ## 🤝 Join the Revolution
 
