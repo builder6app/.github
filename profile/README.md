@@ -10,7 +10,7 @@
   </p>
   
   <p>
-    We are <strong>Build6-ai</strong>, the open-source organization behind the next generation of software development.<br/>
+    We are <strong>Build6</strong>, the open-source organization behind the next generation of software development.<br/>
     Our platform leverages <strong>Generative AI</strong> to turn natural language into enterprise-grade applications.
   </p>
 
