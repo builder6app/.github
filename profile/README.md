@@ -4,8 +4,7 @@
   <p><strong>Build in Cloud. Run Locally. The AI-Native Low-Code Platform.</strong></p>
 
   <a href="https://builder6.com">Website</a> •
-  <a href="https://github.com/builder6app/builder6.com">Core Repository</a> •
-  <a href="https://twitter.com/yourhandle">Twitter</a>
+  <a href="https://github.com/builder6app/builder6.com">Core Repository</a> 
 </div>
 
 <br/>
