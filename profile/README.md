@@ -3,8 +3,6 @@
   <h1>Builder6</h1>
   <p><strong>Build in Cloud. Run Locally. The AI-Native Low-Code Platform.</strong></p>
 
-  <a href="https://builder6.com">Website</a> •
-  <a href="https://github.com/builder6app/builder6.com">Core Repository</a> 
 </div>
 
 <br/>
@@ -21,17 +19,8 @@ We provide a cloud-based "AI Factory" where you can design applications using na
 * **☁️ Cloud IDE:** Zero setup. Start developing in your browser instantly.
 * **🔒 Data Sovereignty:** Your production data belongs to you. Export your app and deploy it on-premise, in a private cloud, or on the edge.
 
-## 🛠️ Key Projects
-
-* **[builder6.com](https://github.com/builder6app/builder6.com)**: The core repository for our AI-native cloud editor. Built with Next.js, Amis, and NestJS.
-
 ## 🤝 Join the Community
 
 We are an open-source initiative building the future of software development.
 * Try the platform: [https://builder6.com](https://builder6.com)
 * Contribute to the core: [Pull Requests Welcome](https://github.com/builder6app/builder6.com/pulls)
-
----
-<p align="center">
-  © 2025 Builder6. Licensed under MIT.
-</p>
