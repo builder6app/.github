@@ -31,7 +31,7 @@ We believe the future of coding is conversational. **Builder6** provides the eco
 | Project | Description | Role |
 | :--- | :--- | :--- |
 | **[builder6.com](https://github.com/builder6-ai/builder6.com)** | The AI-Native Cloud IDE. Build apps via prompts. | 🧠 **Editor** |
-| **[builder6.app](https://github.com/builder6-ai/builder6.app)** | The high-performance runtime engine for your apps. | ⚙️ **Runtime** |
+| **[builder6-runtime](https://github.com/builder6-ai/builder6-runtime)** | The high-performance runtime engine for your apps. | ⚙️ **Runtime** |
 
 ## 🤝 Join the Revolution
 
